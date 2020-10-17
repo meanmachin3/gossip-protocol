@@ -1,5 +1,6 @@
-<h1 align="center"> Project Report </h1> <br>
+<h1 align="center"> Understanding gossip protocols </h1> <br>
 
+![Gossip Everywhere](./docs/banner.jpg)
 
 ## Table of Contents
 
@@ -23,7 +24,7 @@
 
 ## Build Process
 
-- unzip the compressed file using `unzip filename.zip`
+- Download the repository `git clone https://github.com/meanmachin3/gossip-protocol.git`
 - `dotnet fsi --langversion:preview proj2.fsx nodeNum topology protocol` to run script where `nodeNum` is the number of nodes you want to run topology for. `topology` can have values in [`line`, `full`, `2D`, `Imp2D`]. The protocol can have values either `gossip` or `push-sum`.
 
 ## What is Working
