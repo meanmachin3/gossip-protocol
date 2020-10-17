@@ -1,0 +1,36 @@
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Gossip -------------
+Time for convergence: 77.341700 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Gossip -------------
+Time for convergence: 296.139700 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Gossip -------------
+Time for convergence: 728.089100 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Gossip -------------
+Time for convergence: 1116.348500 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Gossip -------------
+Time for convergence: 1741.678100 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Gossip -------------
+Time for convergence: 2107.889000 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Gossip -------------
+Time for convergence: 3088.058600 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Gossip -------------
+Time for convergence: 3767.662200 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Gossip -------------
+Time for convergence: 4913.606300 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Gossip -------------
+Time for convergence: 6400.411700 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Gossip -------------
+Time for convergence: 11677.359500 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Gossip -------------
+Time for convergence: 23641.132900 ms

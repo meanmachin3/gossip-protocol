@@ -1,0 +1,40 @@
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Push Sum -------------
+Sum = 3.065234 Weight= 0.061924 Average=49.500000
+Time for convergence: 65.276900 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Push Sum -------------
+Sum = 10.445489 Weight= 0.093160 Average=112.124658
+Time for convergence: 30.601800 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Push Sum -------------
+Sum = 13.798913 Weight= 0.085255 Average=161.855431
+Time for convergence: 125.613600 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Push Sum -------------
+Sum = 22.911766 Weight= 0.115073 Average=199.106565
+Time for convergence: 31.769500 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Push Sum -------------
+Sum = 9.337549 Weight= 0.035377 Average=263.942190
+Time for convergence: 420.110800 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Push Sum -------------
+Sum = 14.926301 Weight= 0.047841 Average=312.000000
+Time for convergence: 648.271800 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Push Sum -------------
+Sum = 40.922617 Weight= 0.112434 Average=363.969065
+Time for convergence: 220.868200 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Push Sum -------------
+Sum = 3.839820 Weight= 0.009142 Average=420.000000
+Time for convergence: 851.670800 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Push Sum -------------
+Sum = 51.121867 Weight= 0.113803 Average=449.213150
+Time for convergence: 174.650400 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Push Sum -------------
+Sum = 29.535721 Weight= 0.057743 Average=511.500000
+Time for convergence: 1018.720400 ms

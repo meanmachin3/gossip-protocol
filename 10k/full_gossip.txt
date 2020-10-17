@@ -1,0 +1,36 @@
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+------------- Begin Gossip -------------
+Time for convergence: 13.089400 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+------------- Begin Gossip -------------
+Time for convergence: 38.887200 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+------------- Begin Gossip -------------
+Time for convergence: 55.602500 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+------------- Begin Gossip -------------
+Time for convergence: 60.286800 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+------------- Begin Gossip -------------
+Time for convergence: 75.486900 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+------------- Begin Gossip -------------
+Time for convergence: 104.759000 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+------------- Begin Gossip -------------
+Time for convergence: 115.332000 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+------------- Begin Gossip -------------
+Time for convergence: 149.524000 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+------------- Begin Gossip -------------
+Time for convergence: 179.047700 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+------------- Begin Gossip -------------
+Time for convergence: 208.205000 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+------------- Begin Gossip -------------
+Time for convergence: 254.473200 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+------------- Begin Gossip -------------
+Time for convergence: 337.089200 ms

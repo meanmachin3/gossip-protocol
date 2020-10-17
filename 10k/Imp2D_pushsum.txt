@@ -1,0 +1,48 @@
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Push Sum -------------
+Sum = 9.656825 Weight= 0.036547 Average=264.231030
+Time for convergence: 469.119700 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Push Sum -------------
+Sum = 21.599524 Weight= 0.042263 Average=511.068468
+Time for convergence: 884.895800 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Push Sum -------------
+Sum = 28.600790 Weight= 0.037637 Average=759.907594
+Time for convergence: 1714.339100 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Push Sum -------------
+Sum = 26.284866 Weight= 0.025973 Average=1012.016558
+Time for convergence: 2868.006200 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Push Sum -------------
+Sum = 110.902348 Weight= 0.088777 Average=1249.226799
+Time for convergence: 2929.296700 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Push Sum -------------
+Sum = 77.616204 Weight= 0.051345 Average=1511.671219
+Time for convergence: 3677.128500 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Push Sum -------------
+Sum = 160.885788 Weight= 0.089422 Average=1799.182852
+Time for convergence: 3625.709000 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Push Sum -------------
+Sum = 249.407743 Weight= 0.121811 Average=2047.499999
+Time for convergence: 6064.880100 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Push Sum -------------
+Sum = 268.953336 Weight= 0.116352 Average=2311.546017
+Time for convergence: 2103.383000 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Push Sum -------------
+Sum = 292.284494 Weight= 0.115056 Average=2540.373503
+Time for convergence: 526.547900 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Push Sum -------------
+Sum = 422.295073 Weight= 0.119724 Average=3527.229596
+Time for convergence: 4254.916000 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+leader------------- Begin Push Sum -------------
+Sum = 515.434706 Weight= 0.103097 Average=4999.500000
+Time for convergence: 18065.200300 ms

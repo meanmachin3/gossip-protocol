@@ -1,0 +1,48 @@
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+Starting Push Sum Protocol for Line
+Sum = 39.026017 Weight= 0.118221 Average=330.111519
+Time for convergence: 73904.163600 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+Starting Push Sum Protocol for Line
+Sum = 19.324138 Weight= 0.118660 Average=162.853038
+Time for convergence: 123829.806600 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+Starting Push Sum Protocol for Line
+Sum = 126.234146 Weight= 0.112018 Average=1126.906795
+Time for convergence: 1053057.242100 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+Starting Push Sum Protocol for Line
+Sum = 31.736402 Weight= 0.122397 Average=259.289633
+Time for convergence: 642314.085700 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+Starting Push Sum Protocol for Line
+Sum = 277.803189 Weight= 0.121524 Average=2285.989536
+Time for convergence: 583127.978800 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+Starting Push Sum Protocol for Line
+Sum = 362.333084 Weight= 0.125000 Average=2898.664675
+Time for convergence: 69947.199600 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+Starting Push Sum Protocol for Line
+Sum = 24.631050 Weight= 0.121481 Average=202.756350
+Time for convergence: 820455.953200 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+Starting Push Sum Protocol for Line
+Sum = 14.126927 Weight= 0.123901 Average=114.018023
+Time for convergence: 171936.142000 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+Starting Push Sum Protocol for Line
+Sum = 526.836795 Weight= 0.121933 Average=4320.692103
+Time for convergence: 560655.901500 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+Starting Push Sum Protocol for Line
+Sum = 597.465325 Weight= 0.122559 Average=4874.924158
+Time for convergence: 656964.000200 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+Starting Push Sum Protocol for Line
+Sum = 21.522046 Weight= 0.123504 Average=174.262501
+Time for convergence: 1107406.735200 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+Starting Push Sum Protocol for Line
+Sum = 1175.214892 Weight= 0.119835 Average=9806.939756
+Time for convergence: 1863287.017700 ms

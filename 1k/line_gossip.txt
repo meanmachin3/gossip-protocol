@@ -1,0 +1,30 @@
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+Starting Protocol Gossip
+Time for convergence: 16.352500 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+Starting Protocol Gossip
+Time for convergence: 41.053700 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+Starting Protocol Gossip
+Time for convergence: 94.803000 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+Starting Protocol Gossip
+Time for convergence: 144.046700 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+Starting Protocol Gossip
+Time for convergence: 253.979600 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+Starting Protocol Gossip
+Time for convergence: 360.008400 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+Starting Protocol Gossip
+Time for convergence: 426.702900 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+Starting Protocol Gossip
+Time for convergence: 661.479300 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+Starting Protocol Gossip
+Time for convergence: 823.878300 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+Starting Protocol Gossip
+Time for convergence: 1118.792500 ms

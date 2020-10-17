@@ -1,0 +1,40 @@
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+------------- Begin Push Sum -------------
+Sum = 0.288342 Weight= 0.005825 Average=49.500000
+Time for convergence: 319.396400 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+------------- Begin Push Sum -------------
+Sum = 0.482896 Weight= 0.004312 Average=112.000000
+Time for convergence: 1381.666900 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+------------- Begin Push Sum -------------
+Sum = 0.713420 Weight= 0.004417 Average=161.500001
+Time for convergence: 2728.881900 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+------------- Begin Push Sum -------------
+Sum = 15.369599 Weight= 0.077041 Average=199.500000
+Time for convergence: 3404.846700 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+------------- Begin Push Sum -------------
+Sum = 14.824863 Weight= 0.056155 Average=264.000000
+Time for convergence: 6706.152000 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+------------- Begin Push Sum -------------
+Sum = 0.008968 Weight= 0.000029 Average=311.999999
+Time for convergence: 10106.860100 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+------------- Begin Push Sum -------------
+Sum = 24.261604 Weight= 0.066653 Average=364.000000
+Time for convergence: 13625.041200 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+------------- Begin Push Sum -------------
+Sum = 16.248520 Weight= 0.038687 Average=420.000002
+Time for convergence: 18466.658600 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+------------- Begin Push Sum -------------
+Sum = 24.051711 Weight= 0.053508 Average=449.500003
+Time for convergence: 21490.475800 ms
+Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+------------- Begin Push Sum -------------
+Sum = 17.579800 Weight= 0.034369 Average=511.500022
+Time for convergence: 25934.539200 ms
